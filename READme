@@ -1,0 +1,24 @@
+Install Python (if not already installed)
+👉 Download from python.org
+
+Install OR-Tools
+
+bash
+Copy
+Edit
+pip install ortools
+Save the Code
+
+Create a file named vrp_example.py
+
+Paste the provided code into the file
+
+Run the Program
+In your terminal or command prompt:
+
+bash
+Copy
+Edit
+python vrp_example.py
+View the Output
+The script will print the optimal route and total distance.
